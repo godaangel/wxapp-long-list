@@ -1,0 +1,11 @@
+.list-scroll{
+  height: 100vh;
+}
+
+.demo-item{
+  text-align: center;
+}
+
+.demo-item:nth-child(2n+1) {
+  background: #f1f1f1;
+}
